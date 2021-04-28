@@ -1,4 +1,4 @@
-# Python-Functions-Files-and-Dictionaries-Week-2-Assessment-Dictionary-Accumulation
+# Python-Functions-Files-and-Dictionaries-Week-2-Assessment-Dictionary-Accumulation-course_2_assessment_3
 Coursera U of M Course: Python Functions, Files, and Dictionaries - Week 2 - Assessment Dictionary Accumulation - course_2_assessment_3
 
 
